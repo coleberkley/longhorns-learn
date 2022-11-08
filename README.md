@@ -1,3 +1,3 @@
 This is a test:
 
-<img src="/git_images/website_api_rooms.png" width="500">
+<img src="/git_images/website_activity_feed.png" width="500">
