@@ -25,11 +25,11 @@ A user can sign into an existing account using an email and password or create a
 
 Sign In
 <br />
-<img src="/git_images/website_signin.png" width="500">
+<img src="/git_images/website_signin.png" width="800">
 
 Sign Up
 <br />
-<img src="/git_images/website_signup.png" width="500">
+<img src="/git_images/website_signup.png" width="800">
 
 Home Page-
 <br />
@@ -37,15 +37,15 @@ The home page features a list of classes, discussion rooms, and an activity feed
 
 Home
 <br />
-<img src="/git_images/website_home.png" width="500">
+<img src="/git_images/website_home.png" width="800">
 
 Example of filtering by topic
 <br />
-<img src="/git_images/website_bytopic.png" width="500">
+<img src="/git_images/website_bytopic.png" width="800">
 
 Example of filtering by search keyword
 <br />
-<img src="/git_images/website_search.png" width="500">
+<img src="/git_images/website_search.png" width="800">
 
 Home Page on Mobile Device (or in a very narrow browser)
 <br />
@@ -61,7 +61,7 @@ Activity Feed on Mobile Device (or in a very narrow browser)
 
 Dropdown for Settings (edit user profile) and Logout
 <br />
-<img src="/git_images/website_dropdown.png" width="500">
+<img src="/git_images/website_dropdown.png" width="800">
 
 Discussion Room Page-
 <br />
@@ -69,15 +69,15 @@ A user can create a new discussion room from the home page. Upon creating a room
 
 Create Room
 <br />
-<img src="/git_images/website_create_room.png" width="500">
+<img src="/git_images/website_create_room.png" width="800">
 
 Room
 <br />
-<img src="/git_images/website_room.png" width="500">
+<img src="/git_images/website_room.png" width="800">
 
 Deleting a room (same page for deleting a message)
 <br />
-<img src="/git_images/website_delete_room.png" width="500">
+<img src="/git_images/website_delete_room.png" width="800">
 
 Profile Page-
 <br />
@@ -85,11 +85,11 @@ Each user has a profile page that showcases their display name, unique username,
 
 Profile
 <br />
-<img src="/git_images/website_profile.png" width="500">
+<img src="/git_images/website_profile.png" width="800">
 
 Edit Profile
 <br />
-<img src="/git_images/website_update_user.png" width="500">
+<img src="/git_images/website_update_user.png" width="800">
 
 Website API-
 <br />
@@ -97,9 +97,9 @@ The API of Longhorns Learn is extremely basic and was more for learning purposes
 
 API Routes
 <br />
-<img src="/git_images/website_api.png" width="500">
+<img src="/git_images/website_api.png" width="800">
 
 API Room Access
 <br />
-<img src="/git_images/wbesite_api_rooms.png" width="500">
+<img src="/git_images/wbesite_api_rooms.png" width="800">
 
